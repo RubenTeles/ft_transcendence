@@ -2,7 +2,7 @@
 42 Common Core - ft_transcendence
 
 ### Overview
-ft_transcendence consists of creating a website with chat, ping-pong match making, profiles, leaderboard. Using the **TypeScript** language, **Vue3** was used for the frontend, **NestJS** for the backend, communication using **Sockets**, we used **Prisma** to communicate with the database, we used two **Rest APIs** for login with the school platform 42, and with Google Authentication , and all embedded in containers using **Docker**.
+[ft_transcendence](https://github.com/luis-prates/ft_transcendence) consists of creating a website with chat, ping-pong match making, profiles, leaderboard. Using the **TypeScript** language, **Vue3** was used for the frontend, **NestJS** for the backend, communication using **Sockets**, we used **Prisma** to communicate with the database, we used two **Rest APIs** for login with the school platform 42, and with Google Authentication , and all embedded in containers using **Docker**.
 **Extras** were created, such as creating an RPG giving more dynamics and interaction, a store with skins, NPCs, playing against the bot, and more.
 
 ## Video (Sound ON)

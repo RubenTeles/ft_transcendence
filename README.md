@@ -48,3 +48,23 @@ Unlock exclusive skins for paddle and tables in shop
 * TypeScript
 * Socket.io
 * REST
+
+```diff
+# Clone the project and access the folder
+git clone https://github.com/RubenTeles/ft_transcendence && cd ft_transcendence/
+
+# Create a **.env** in frotend and backend (.env.example)
+
+# Run Docker
+docker-compose build
+docker-compose up
+
+# Run DataBase and Backend
+cd backend && npx prisma generate && npx prisma migrate dev && npm i && npm run
+
+# Run Frotend
+cd frontend && npm i && npm run
+
+# Well done!
+```
+

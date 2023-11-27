@@ -53,7 +53,7 @@ Unlock exclusive skins for paddle and tables in shop
 # Clone the project and access the folder
 git clone https://github.com/RubenTeles/ft_transcendence && cd ft_transcendence/
 
-# Create a **.env** in frotend and backend (.env.example)
+# Create a .env in frotend and backend (.env.example)
 
 # Run Docker
 docker-compose build
